@@ -8,4 +8,8 @@
 ### Link
 - [산림 공공 빅 데이터](https://www.all-con.co.kr/view/contest/497333)
 
-- [둘레길 시각화 1탄](https://public.tableau.com/app/profile/.30915398/viz/_16885728624180/Story1)
+- [둘레길 시각화 1탄(관심 인구)](https://public.tableau.com/app/profile/.30915398/viz/_16885728624180/Story1)  
+- [둘레길 시각화 2탄(관심사)](https://public.tableau.com/app/profile/.30915398/viz/_16886440701850/Dashboard1?publish=yes)
+
+
+|[노션](https://m05.notion.site/King-of-Forest-c39d6d5a337d48fb8d884d4e2455d135?pvs=4)|[태블로](https://public.tableau.com/app/profile/.30915398)|
