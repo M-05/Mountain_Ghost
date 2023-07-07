@@ -14,4 +14,4 @@
 - [2019년 전국 인구수 시각화](https://public.tableau.com/app/profile/.30915398/viz/2019_16887220986270/Dashboard1?publish=yes)
 
 ---
-| [Notion](https://m05.notion.site/King-of-Forest-c39d6d5a337d48fb8d884d4e2455d135?pvs=4) | [Tableau](https://public.tableau.com/app/profile/.30915398) |
+| [Notion](https://m05.notion.site/Mountain-Ghost-c39d6d5a337d48fb8d884d4e2455d135?pvs=4) | [Tableau](https://public.tableau.com/app/profile/.30915398) |
