@@ -1,4 +1,4 @@
-# 🌳 [king of forest](https://m05.notion.site/c39d6d5a337d48fb8d884d4e2455d135?pvs=4) 🏴‍☠️
+# 🌳 [Mountain Ghost](https://m05.notion.site/Mountain-Ghost-c39d6d5a337d48fb8d884d4e2455d135?pvs=4) 👻
 
 
 <p align="center">
