@@ -1,3 +1,5 @@
+<img src="https://github.com/M-05/Mountain_Ghost/assets/103846429/a81b108e-750b-4c9f-a3e2-ea31be5983b5" alt="MG" width=100%>
+
 # 🌳 [Mountain Ghost](https://m05.notion.site/Mountain-Ghost-c39d6d5a337d48fb8d884d4e2455d135?pvs=4) 👻
 
 
@@ -12,6 +14,7 @@
 - [둘레길 시각화 1탄(관심 인구)](https://public.tableau.com/app/profile/.30915398/viz/_16885728624180/Story1)  
 - [둘레길 시각화 2탄(관심사)](https://public.tableau.com/app/profile/.30915398/viz/_16886440701850/Dashboard1?publish=yes)
 - [2019년 전국 인구수 시각화](https://public.tableau.com/app/profile/.30915398/viz/2019_16887220986270/Dashboard1?publish=yes)
+- [전국 총 인구 vs 둘레길 관심](https://public.tableau.com/app/profile/.30915398/viz/_16888060904190/Dashboard1)
 
 ---
 | [Notion](https://m05.notion.site/Mountain-Ghost-c39d6d5a337d48fb8d884d4e2455d135?pvs=4) | [Tableau](https://public.tableau.com/app/profile/.30915398) |
