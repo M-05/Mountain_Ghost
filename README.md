@@ -12,7 +12,7 @@
 - [산림 공공 빅 데이터 공식 사이트](https://www.all-con.co.kr/view/contest/497333)
 
 - [둘레길 시각화 1탄(관심 인구)](https://public.tableau.com/app/profile/.30915398/viz/_16885728624180/Story1)  
-- [둘레길 시각화 2탄(관심사)](https://public.tableau.com/app/profile/.30915398/viz/_16886440701850/Dashboard1?publish=yes)
+- [둘레길 시각화 2탄(관심사)](https://public.tableau.com/app/profile/.30915398/viz/_16888271720270/Dashboard1)  
 - [2019년 전국 인구수 시각화](https://public.tableau.com/app/profile/.30915398/viz/2019_16887220986270/Dashboard1?publish=yes)
 - [전국 총 인구 vs 둘레길 관심](https://public.tableau.com/app/profile/.30915398/viz/_16888060904190/Dashboard1)
 
