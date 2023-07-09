@@ -2,10 +2,17 @@
 
 # 🌳 [Mountain Ghost](https://m05.notion.site/Mountain-Ghost-c39d6d5a337d48fb8d884d4e2455d135?pvs=4) 👻
 
-
 <p align="center">
   <img src="https://github.com/M-05/king_of_forest/assets/103846429/c073cfe5-8819-4ad0-9087-449ee254803e" alt="king_of_forest" width="500">
 </p>
+
+
+<img src="https://github.com/M-05/Mountain_Ghost/assets/103846429/4e201485-6bcd-440d-953a-b907b388d9e2" alt="관심도" width=100%>
+
+
+
+
+
 
 ### 🖇️ Link
 ---
