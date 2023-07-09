@@ -4,6 +4,9 @@
 
 <img src="https://github.com/M-05/Mountain_Ghost/assets/103846429/4e201485-6bcd-440d-953a-b907b388d9e2" alt="관심도" width=100%>
 
+# 🌠 접근방식
+<img width="100%" alt="접근 방식" src="https://github.com/M-05/Mountain_Ghost/assets/103846429/2c91e5eb-1b66-47b2-be3f-0dda26fc6672">
+
 
 ### 🖇️ Link
 ---
